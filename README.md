@@ -6,7 +6,7 @@ I'm an Information Technology student at TGM, passionate about coding, fitness, 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/kenji015)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/maximilian-mahrhofer-8626732a1/)
-[![Github Badge](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://kenji015.github.io)
+[![Github Personal Site](https://img.shields.io/badge/Portfolio-543DE0?logo=About.me&logoColor=white)](https://kenji015.github.io)
 
 
 
