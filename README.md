@@ -20,10 +20,7 @@ I'm an Information Technology student at TGM, passionate about coding, fitness, 
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></a>
     <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-
-    https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff
-   
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>   
 </p>  
 
 ### Frameworks
