@@ -6,6 +6,8 @@ I'm an Information Technology student at TGM, passionate about coding, fitness, 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/kenji015)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/maximilian-mahrhofer-8626732a1/)
+[![Github Badge](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://kenji015.github.io)
+
 
 
 ## 💻 Tech Skills
@@ -27,6 +29,7 @@ I'm an Information Technology student at TGM, passionate about coding, fitness, 
    
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white"></a>
+   <a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white"></a>
    <a href="#"><img alt="Rest API" src="https://img.shields.io/badge/REST%20API-v1.1-lightgrey"></a>
    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC"></a>
    <a href="#"><img alt="ChartJS" src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff"></a>
