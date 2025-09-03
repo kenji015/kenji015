@@ -10,7 +10,7 @@ I'm an Information Technology student at TGM, passionate about coding.
 
 
 
-## 💻 Tech Skills
+## 💻 Tech-Stack
  
 ### Languages
  
