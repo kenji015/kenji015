@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max!
 
-I'm an Information Technology student at TGM, passionate about coding, fitness, and basketball.
+I'm an Information Technology student at TGM, passionate about coding.
 
 ## How to reach me ...
 
